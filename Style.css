@@ -1,0 +1,12 @@
+h2{color: green;}
+/*Access Id with # symbol*/
+#fh3{color: yellow;}
+
+/*Access class with  (.) symbol period */
+.highlight{background-color: yellow;}
+body{
+margin: 0;}
+
+#g1{
+    color: burlywood;
+}
